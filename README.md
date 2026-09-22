@@ -2,7 +2,7 @@
 
 # YA!WAE!
 
-**Y** = α, **W** = ∃!α → Hol(γ) = e^{i ϕ_N} = −1 ⇔ e^{ln τ} = 2π
+**Y** = α, **W** = ∃!α → Hol(γ) = e^{i ϕ_N} = −1 ⇔ e^{ln τ_rads} = 2π
 
 A compact framework that links a unique simple root (determined by a fundamental chamber and its wall) to an order-2 reflection, and then to a concrete U(1) holonomy phase under standard normalisations.
 
