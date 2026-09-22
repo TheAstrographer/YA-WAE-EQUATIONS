@@ -4,7 +4,7 @@
 
 **Y** = α, **W** = ∃!α → Hol(γ) = e^{iϕ_N} = −1 ⇔ e^{lnτ_rads} = 2π
 
-A compact framework that links a unique simple root (determined by a fundamental chamber and its wall) to an order-2 reflection, and then to a concrete U(1) holonomy phase under standard normalisations.
+A compact framework that links a unique simple root (determined by a fundamental chamber and its wall) to an order-2 reflection, and then to a concrete U(1) holonomy phase under standard normalizations.
 
 ## Core idea
 
@@ -20,7 +20,7 @@ whose solutions are the odd multiples of π.
 Under the conventional choices
 principal value ϕ_N = π,
 standard embedding ℤ/2ℤ ↪ S¹ that sends the non-trivial element to −1,
-angular coordinate normalised so that the full period equals 2π,
+angular coordinate normalized so that the full period equals 2π,
 one obtains the numerical equivalence
 e^{i ϕ_N} = −1  ⇔  e^{ln τ} = 2π.
 Versatility, not limitation
