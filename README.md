@@ -28,6 +28,12 @@ The reflection identity \(s_α(α) = −α\) is intrinsic.
 Everything beyond it — the choice of connection, the embedding into S¹, the principal value, and the period normalisation — is free.  
 Different geometric or physical contexts can therefore adopt different conventions while the underlying order-2 reflection remains unchanged.
 That adaptability is the strength of the YA!WAE! equation.
+No numerical value is inserted by hand when forcing radial relation identities to angular frequencies. The entire structure is forced once you establish the path for [Y = α,  W = ∃!α] to follow. Topology forces the flip;
+continuous embedding forces the measured accumulation; the measured accumulation forces the metric identification of \(\alpha\) with \(\omega\). No step is free once establishing your sets parameters; 
+
+Conclusion
+
+The numerical emergence of \(2\pi\) is the precise metric signature that appears when the topologically forced phase flip of complete self-reflection is realized as continuous parallel transport about a puncture. It is read from the total change in continuous argument after one positive winding; it is not presupposed as a coordinate of the path. This measured correspondence locks the period, determines the angular frequency, and completes the identity
 
 # MICHAEL
 
