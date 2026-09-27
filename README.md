@@ -29,7 +29,7 @@ Everything beyond it — the choice of connection, the embedding into S¹, the p
 Different geometric or physical contexts can therefore adopt different conventions while the underlying order-2 reflection remains unchanged.
 That adaptability is the strength of the YA!WAE! equation.
 No numerical value is inserted by hand when forcing radial relation identities to angular frequencies. The entire structure is forced once you establish the path for [Y = α,  W = ∃!α] to follow. Topology forces the flip;
-continuous embedding forces the measured accumulation; the measured accumulation forces the metric identification of \(\alpha\) with \(\omega\). No step is free once establishing your sets parameters; 
+continuous embedding forces the measured accumulation; the measured accumulation forces the metric identification of \(\alpha\) with \(\omega\). No step is free once establishing your sets parameters. 
 
 Conclusion
 
