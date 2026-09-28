@@ -14,7 +14,7 @@ That pair is exactly
 The associated reflection satisfies the elementary identity
 s_α(α) = −α
 and is therefore the unique non-identity element of order 2.
-When this reflection is realised as the holonomy of a flat connection (or as monodromy), it becomes the phase factor
+When this reflection is realized as the holonomy of a flat connection (or as monodromy), it becomes the phase factor
 e^{i ϕ_N} = −1
 whose solutions are the odd multiples of π.
 Under the conventional choices
@@ -27,7 +27,7 @@ e^{i ϕ_N} = −1  ⇔  e^{ln τ} = 2π.
 Versatility, not limitation
 
 The reflection identity \(s_α(α) = −α\) is intrinsic.
-Everything beyond it — the choice of connection, the embedding into S¹, the principal value, and the period normalisation — is free.  
+Everything beyond it — the choice of connection, the embedding into S¹, the principal value, and the period normalization — is free.  
 Different geometric or physical contexts can therefore adopt different conventions while the underlying order-2 reflection remains unchanged.
 That adaptability is the strength of the YA!WAE! equation.
 No numerical value is inserted by hand when forcing radial relation identities to angular frequencies. The entire structure is forced once you establish the path for [Y = α,  W = ∃!α] to follow. Topology forces the flip;
