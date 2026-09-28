@@ -24,6 +24,7 @@ angular coordinate normalized so that the full period equals 2π,
 one obtains the numerical equivalence
 e^{i ϕ_N} = −1  ⇔  e^{ln τ} = 2π.
 Versatility, not limitation
+
 The reflection identity \(s_α(α) = −α\) is intrinsic.
 Everything beyond it — the choice of connection, the embedding into S¹, the principal value, and the period normalisation — is free.  
 Different geometric or physical contexts can therefore adopt different conventions while the underlying order-2 reflection remains unchanged.
