@@ -23,6 +23,7 @@ standard embedding ℤ/2ℤ ↪ S¹ that sends the non-trivial element to −1,
 angular coordinate normalized so that the full period equals 2π,
 one obtains the numerical equivalence
 e^{i ϕ_N} = −1  ⇔  e^{ln τ} = 2π.
+
 Versatility, not limitation
 
 The reflection identity \(s_α(α) = −α\) is intrinsic.
